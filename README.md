@@ -23,7 +23,7 @@ ACCESS_TOKEN_SECRET = 'add-your-key'
 VPS_DIRECTORY = 'add-your-key'
 ```
 
-Step 3
+### Step 3
 Install the libraries 
 
 ```sh
